@@ -1,0 +1,12 @@
+[submodule "thirdparty/Cutie"]
+	path = thirdparty/Cutie
+	url = https://github.com/hkchengrex/Cutie.git
+[submodule "thirdparty/Mast3r"]
+	path = thirdparty/Mast3r
+	url = https://github.com/naver/mast3r.git
+[submodule "thirdparty/hloc"]
+	path = thirdparty/hloc
+	url = https://github.com/cvg/Hierarchical-Localization
+[submodule "thirdparty/nksr"]
+	path = thirdparty/nksr
+	url = https://github.com/nv-tlabs/nksr.git

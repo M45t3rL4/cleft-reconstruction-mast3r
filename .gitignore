@@ -1,0 +1,5 @@
+.idea/*
+output/*
+src/__pycache__/*
+workspace/*
+cleft/
